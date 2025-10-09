@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jinan Jiang is currently working toward the Ph.D. degree with the Department of Computing, The Hong Kong Polytechnic University, under the supervision of [Prof. Daniel Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/). Before that, he received the B.A. degree in computer science from the University of California, Berkeley. His research interests include blockchain security, zero-knowledge proof, and smart contract security.
+Jinan Jiang is currently working toward the Ph.D. degree (January 2023 - present) with the Department of Computing, The Hong Kong Polytechnic University, under the supervision of [Prof. Daniel Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/). Before that, he received the B.A. degree in computer science from the University of California, Berkeley in June 2022. His research interests include blockchain security, zero-knowledge proof, and smart contract security.
 
 
 <!-- # 🔥 News
@@ -53,9 +52,22 @@ Xinghao Peng, Zhiyuan Sun, Kunsong Zhao, Zuchao Ma, Zihao Li, **<u>Jinan Jiang</
 Proceedings of the 34th USENIX Security Symposium, 2025. 
 
 
+- ``TSE 2025`` Understanding Security Issues in the DAO Governance Process ([Paper](https://jinan789.github.io/)) \\
+Junjie Ma, Muhui Jiang, **<u>Jinan Jiang</u>**, Xiapu Luo, Yufeng Hu, Yajin Zhou, Qi Wang, Fengwei Zhang \\
+IEEE Transactions on Software Engineering (TSE), 2025. 
+
+- ``TSE 2024`` Unearthing gas-wasting code smells in smart contracts with large language models ([Paper](https://jinan789.github.io/)) \\
+**<u>Jinan Jiang</u>**, Zihao Li, Haoran Qin, Muhui Jiang, Xiapu Luo, Xiaoming Wu, Haoyu Wang, Yutian Tang, Chenxiong Qian, Ting Chen \\
+IEEE Transactions on Software Engineering (TSE), 2024. 
+
+
 - ``TOSEM 2024`` Understanding Vulnerability Inducing Commits of the Linux Kernel ([Paper](https://jinan789.github.io/)) \\
 Muhui Jiang, **<u>Jinan Jiang</u>**, Tao Wu, Zuchao Ma, Xiapu Luo, Yajin Zhou \\
 ACM Transactions on Software Engineering and Methodology (TOSEM), 2024. 
+
+
+
+
 
 
 
