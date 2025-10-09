@@ -41,37 +41,36 @@ Jinan Jiang is currently working toward the Ph.D. degree (January 2023 - present
 
 
 
-<p> <div class="badge">ASE 2025</div>  caleCirc: Scaling the Analysis over Circom Circuits <a href="https://jinan789.github.io/">[Paper]</a> <br> <strong><u>Jinan Jiang</u></strong>, JHaoran Qin, Xiapu Luo <br> 40th IEEE/ACM International Conference on Automated Software Engineering, 2025. </p>
+<!-- <p> <div class="badge">ASE 2025</div>  caleCirc: Scaling the Analysis over Circom Circuits <a href="https://jinan789.github.io/">[Paper]</a> <br> <strong><u>Jinan Jiang</u></strong>, JHaoran Qin, Xiapu Luo <br> 40th IEEE/ACM International Conference on Automated Software Engineering, 2025. </p> -->
 
-<!-- 
+
 - ``ASE 2025`` ScaleCirc: Scaling the Analysis over Circom Circuits ([Paper](https://jinan789.github.io/)) \\
 **<u>Jinan Jiang</u>**,  Haoran Qin, Xiapu Luo \\
 40th IEEE/ACM International Conference on Automated Software Engineering, 2025. 
 
-- ``ICSE 2025`` ScaleCirc: Scaling the Analysis over Circom Circuits ([Paper](https://jinan789.github.io/)) \\
+- ``ICSE 2025`` ScaleCirc: Scaling the Analysis over Circom Circuits ([Paper](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a737/251mHhOXS9i)) \\
 **<u>Jinan Jiang</u>**,  Xinghao Peng, Jinzhao Chu, Xiapu Luo \\
 47th IEEE/ACM International Conference on Software Engineering, 2025. 
 
-- ``USENIX Security 2025`` Automated Soundness and Completeness Vetting of Polygon zkEVM ([Paper](https://jinan789.github.io/)) \\
+- ``USENIX Security 2025`` Automated Soundness and Completeness Vetting of Polygon zkEVM ([Paper](https://www.usenix.org/conference/usenixsecurity25/presentation/peng-xinghao)) \\
 Xinghao Peng, Zhiyuan Sun, Kunsong Zhao, Zuchao Ma, Zihao Li, **<u>Jinan Jiang</u>**, Xiapu Luo, Yinqian Zhang \\
 Proceedings of the 34th USENIX Security Symposium, 2025. 
 
 
-- ``TSE 2025`` Understanding Security Issues in the DAO Governance Process ([Paper](https://jinan789.github.io/)) \\
+- ``TSE 2025`` Understanding Security Issues in the DAO Governance Process ([Paper](https://ieeexplore.ieee.org/abstract/document/10891888/)) \\
 Junjie Ma, Muhui Jiang, **<u>Jinan Jiang</u>**, Xiapu Luo, Yufeng Hu, Yajin Zhou, Qi Wang, Fengwei Zhang \\
 IEEE Transactions on Software Engineering (TSE), 2025. 
 
-- ``TSE 2024`` Unearthing gas-wasting code smells in smart contracts with large language models ([Paper](https://jinan789.github.io/)) \\
+- ``TSE 2024`` Unearthing gas-wasting code smells in smart contracts with large language models ([Paper](https://ieeexplore.ieee.org/abstract/document/10757316/)) \\
 **<u>Jinan Jiang</u>**, Zihao Li, Haoran Qin, Muhui Jiang, Xiapu Luo, Xiaoming Wu, Haoyu Wang, Yutian Tang, Chenxiong Qian, Ting Chen \\
 IEEE Transactions on Software Engineering (TSE), 2024. 
 
+- ``TOSEM 2024`` Understanding Vulnerability Inducing Commits of the Linux Kernel ([Paper](https://dl.acm.org/doi/abs/10.1145/3672452)) \\
+Muhui Jiang \*, **<u>Jinan Jiang</u>** \*, Tao Wu, Zuchao Ma, Xiapu Luo, Yajin Zhou \\
+ACM Transactions on Software Engineering and Methodology (TOSEM), 2024. \\
+(*These authors contributed equally to this work)
 
-- ``TOSEM 2024`` Understanding Vulnerability Inducing Commits of the Linux Kernel ([Paper](https://jinan789.github.io/)) \\
-Muhui Jiang, **<u>Jinan Jiang</u>**, Tao Wu, Zuchao Ma, Xiapu Luo, Yajin Zhou \\
-ACM Transactions on Software Engineering and Methodology (TOSEM), 2024. 
 
-
- -->
 
 
 
@@ -91,8 +90,7 @@ ACM Transactions on Software Engineering and Methodology (TOSEM), 2024.
 - *2021* University of California at Berkeley, Berkeley Club of Hong Kong Scholarship.
 
 
-<!-- 
-# 📖 Educations
+<!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
