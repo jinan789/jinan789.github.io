@@ -81,9 +81,13 @@ ACM Transactions on Software Engineering and Methodology (TOSEM), 2024.
 
 
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Selected Awards
+
+
+- *2025* Best Poster Presentation Award, The PolyU COMP - HKUST (GZ) INFH Research Student Conference.
+- *2023* Hong Kong PhD Fellowship Scheme (HKPFS).
+- *2023* Ethereum Foundation Academic Grant, Ethereum Foundation on Blockchain Security Research.
+- *2021* University of California at Berkeley, Berkeley Club of Hong Kong Scholarship.
 <!-- 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
