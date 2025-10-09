@@ -42,11 +42,23 @@ Jinan Jiang is currently working toward the Ph.D. degree with the Department of 
 
 - ``ASE 2025`` ScaleCirc: Scaling the Analysis over Circom Circuits ([Paper](https://jinan789.github.io/)) \\
 **<u>Jinan Jiang</u>**,  Haoran Qin, Xiapu Luo \\
-40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025. 
+40th IEEE/ACM International Conference on Automated Software Engineering, 2025. 
 
 - ``ICSE 2025`` ScaleCirc: Scaling the Analysis over Circom Circuits ([Paper](https://jinan789.github.io/)) \\
 **<u>Jinan Jiang</u>**,  Xinghao Peng, Jinzhao Chu, Xiapu Luo \\
-47th IEEE/ACM International Conference on Software Engineering, ICSE 2025. 
+47th IEEE/ACM International Conference on Software Engineering, 2025. 
+
+- ``USENIX Security 2025`` Automated Soundness and Completeness Vetting of Polygon zkEVM ([Paper](https://jinan789.github.io/)) \\
+Xinghao Peng, Zhiyuan Sun, Kunsong Zhao, Zuchao Ma, Zihao Li, **<u>Jinan Jiang</u>**, Xiapu Luo, Yinqian Zhang \\
+Proceedings of the 34th USENIX Security Symposium, 2025. 
+
+
+- ``TOSEM 2024`` Understanding Vulnerability Inducing Commits of the Linux Kernel ([Paper](https://jinan789.github.io/)) \\
+Muhui Jiang, **<u>Jinan Jiang</u>**, Tao Wu, Zuchao Ma, Xiapu Luo, Yajin Zhou \\
+ACM Transactions on Software Engineering and Methodology (TOSEM), 2024. 
+
+
+
 
 
 
