@@ -43,6 +43,10 @@ Jinan Jiang is currently working toward the Ph.D. degree (January 2023 - present
 **<u>Jinan Jiang</u>**,  Haoran Qin, Xiapu Luo \\
 40th IEEE/ACM International Conference on Automated Software Engineering, 2025. 
 
+
+<p> <div class="badge">ASE 2025</div>  caleCirc: Scaling the Analysis over Circom Circuits <a href="https://jinan789.github.io/">[Paper]</a> <br> <strong><u>Jinan Jiang</u></strong>, JHaoran Qin, Xiapu Luo <br> 40th IEEE/ACM International Conference on Automated Software Engineering, 2025. </p>
+
+
 - ``ICSE 2025`` ScaleCirc: Scaling the Analysis over Circom Circuits ([Paper](https://jinan789.github.io/)) \\
 **<u>Jinan Jiang</u>**,  Xinghao Peng, Jinzhao Chu, Xiapu Luo \\
 47th IEEE/ACM International Conference on Software Engineering, 2025. 
@@ -91,3 +95,22 @@ ACM Transactions on Software Engineering and Methodology (TOSEM), 2024.
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
+
+
+# 💻 Teaching
+
+- Computer Security (CS 161): Teaching Assistant, Summer 2021, UC Berkeley
+- Computer Security (CS 161): Teaching Assistant, Fall 2021, UC Berkeley
+- Computer Security (CS 161): Teaching Assistant, Spring 2022, UC Berkeley
+- Cyber and Internet Security (COMP5355): Teaching Assistant, 2022/23 semester 3, The Hong Kong PolyU
+- Computer Systems Security (COMP3334): Teaching Assistant, 2023/24 semester 2, The Hong Kong PolyU
+- Decentralized Apps Fundamentals and Development (COMP5565): Teaching Assistant, 2024/25 semester 1, The Hong Kong PolyU
+- Machine Learning and Applications in Finance (COMP5564): Teaching Assistant, 2024/25 semester 2, The Hong Kong PolyU
+- Cyber and Internet Security (COMP5355): Teaching Assistant, 2024/25 semester 3, The Hong Kong PolyU
+- Cyber and Internet Security (COMP5355): Teaching Assistant, 2025/26 semester 1, The Hong Kong PolyU
+
+
+
+# 💻 Services
+- IEEE Transactions on Dependable and Secure Computing (TDSC), Journal Reviewer
