@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jinan Jiang"
+title                    : "Jinan Jiang" 
 description              : "Ph.D Student at The Hong Kong Polytechnic University."
 repository               : "jinan789/jinan789.github.io.git"
 google_scholar_stats_use_cdn : true
