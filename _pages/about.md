@@ -44,7 +44,7 @@ Jinan Jiang is currently working toward the Ph.D. degree (January 2023 - present
 40th IEEE/ACM International Conference on Automated Software Engineering, 2025. 
 
 
-<p> <div class="badge">ASE 2025</div>  caleCirc: Scaling the Analysis over Circom Circuits <a href="https://jinan789.github.io/">[Paper]</a> <br> <strong><u>Jinan Jiang</u></strong>, JHaoran Qin, Xiapu Luo <br> 40th IEEE/ACM International Conference on Automated Software Engineering, 2025. </p>
+<!-- <p> <div class="badge">ASE 2025</div>  caleCirc: Scaling the Analysis over Circom Circuits <a href="https://jinan789.github.io/">[Paper]</a> <br> <strong><u>Jinan Jiang</u></strong>, JHaoran Qin, Xiapu Luo <br> 40th IEEE/ACM International Conference on Automated Software Engineering, 2025. </p> -->
 
 
 - ``ICSE 2025`` ScaleCirc: Scaling the Analysis over Circom Circuits ([Paper](https://jinan789.github.io/)) \\
