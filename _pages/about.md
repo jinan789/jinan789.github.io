@@ -48,7 +48,7 @@ Jinan Jiang is currently working toward the Ph.D. degree (January 2023 - present
 **<u>Jinan Jiang</u>**,  Haoran Qin, Xiapu Luo \\
 40th IEEE/ACM International Conference on Automated Software Engineering, 2025. 
 
-- ``ICSE 2025`` ScaleCirc: Scaling the Analysis over Circom Circuits ([Paper](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a737/251mHhOXS9i)) \\
+- ``ICSE 2025`` ConsCS: Effective and Efficient Verification of Circom Circuits ([Paper](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a737/251mHhOXS9i)) \\
 **<u>Jinan Jiang</u>**,  Xinghao Peng, Jinzhao Chu, Xiapu Luo \\
 47th IEEE/ACM International Conference on Software Engineering, 2025. 
 
