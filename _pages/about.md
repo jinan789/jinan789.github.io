@@ -121,7 +121,8 @@ ACM Transactions on Software Engineering and Methodology (TOSEM), 2024. \\
 # 💻 Services
 
 ### Program Committee Member
-- USENIX Security 2026, [Artifact Evaluation](https://www.usenix.org/conference/usenixsecurity26)
+- USENIX Security 2026, [Artifact Evaluation](https://www.usenix.org/conference/usenixsecurity26/call-for-papers)
+- OOPSLA 2026, [Artifact Evaluation](https://2026.splashcon.org/track/splash-2026-artifact-evaluation)
 
 ### Journal/Conference Reviewer
 - IEEE Transactions on Dependable and Secure Computing (TDSC) (2024,2025), Journal Reviewer
