@@ -84,7 +84,7 @@ ACM Transactions on Software Engineering and Methodology (TOSEM), 2024. \\
 
 # 🎖 Selected Awards
 
-
+- *2026* PolyU Research Student Attachment Programme (RSAP)
 - *2025* Best Poster Presentation Award, The PolyU COMP - HKUST (GZ) INFH Research Student Conference.
 - *2023* Hong Kong PhD Fellowship Scheme (HKPFS).
 - *2023* Ethereum Foundation Academic Grant, Ethereum Foundation on Blockchain Security Research.
