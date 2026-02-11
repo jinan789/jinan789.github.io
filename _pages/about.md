@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jinan Jiang is currently working toward the Ph.D. degree (January 2023 - present) with the Department of Computing, The Hong Kong Polytechnic University, under the supervision of [Prof. Daniel Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/). Before that, he received the B.A. degree (with highest distinction) in computer science from the University of California, Berkeley in June 2022. He will be conducting a research visit at the National University of Singapore (NUS) in January–July 2026, under the supervision of [Prof. Jiaheng Zhang](https://zjhzjh123.github.io/). His research interests include blockchain security, zero-knowledge proof, and smart contract security.
+Jinan Jiang is currently working toward the Ph.D. degree (January 2023 - present) with the Department of Computing, The Hong Kong Polytechnic University, under the supervision of [Prof. Daniel Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/). Before that, he received the B.A. degree (with highest distinction) in computer science from the University of California, Berkeley in June 2022. He is currently conducting a research visit at the National University of Singapore (NUS) in January–July 2026, under the supervision of [Prof. Jiaheng Zhang](https://zjhzjh123.github.io/). His research interests include blockchain security, zero-knowledge proof, and smart contract security.
 
  
 
@@ -86,9 +86,12 @@ ACM Transactions on Software Engineering and Methodology (TOSEM), 2024. \\
 
 - *2026* PolyU Research Student Attachment Programme (RSAP)
 - *2025* Best Poster Presentation Award, The PolyU COMP - HKUST (GZ) INFH Research Student Conference.
+  - Top 11.24%
 - *2023* Hong Kong PhD Fellowship Scheme (HKPFS).
+  - Only top 3.39% of the newly enrolled 2022/2023 Research Postgraduate (RPG) Students in Hong Kong received this prestigious award.
 - *2023* Ethereum Foundation Academic Grant, Ethereum Foundation on Blockchain Security Research.
-- *2021* University of California at Berkeley, Berkeley Club of Hong Kong Scholarship.
+- *2021* University of California at Berkeley, Berkeley Club of Hong Kong Scholarship (2021-22 cohort).
+  - Only 4 recipients in the Computer Science major.
 
 
 <!-- # 📖 Educations
