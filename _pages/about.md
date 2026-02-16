@@ -88,10 +88,10 @@ ACM Transactions on Software Engineering and Methodology (TOSEM), 2024. \\
 - *2025* Best Poster Presentation Award, The PolyU COMP - HKUST (GZ) INFH Research Student Conference.
   - Top 11.24%
 - *2023* Hong Kong PhD Fellowship Scheme (HKPFS).
-  - Only top 3.39% of the newly enrolled 2022/2023 Research Postgraduate (RPG) Students in Hong Kong received this prestigious award.
+  - Top 3.39% of the newly enrolled 2022/2023 Research Postgraduate (RPG) Students in Hong Kong received this prestigious award.
 - *2023* Ethereum Foundation Academic Grant, Ethereum Foundation on Blockchain Security Research.
 - *2021* University of California at Berkeley, Berkeley Club of Hong Kong Scholarship (2021-22 cohort).
-  - Only 4 recipients in the Computer Science major.
+  - 4 recipients in the Computer Science major.
 
 
 <!-- # 📖 Educations
