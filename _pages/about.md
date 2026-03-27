@@ -86,7 +86,7 @@ ACM Transactions on Software Engineering and Methodology (TOSEM), 2024. \\
 
 - *2026* PolyU Research Student Attachment Programme (RSAP)
 - *2025* Best Poster Presentation Award, The PolyU COMP - HKUST (GZ) INFH Research Student Conference (11.24% selection rate).
-- *2023* Hong Kong PhD Fellowship Scheme (HKPFS) (top 3.39% of the newly enrolled 2022/2023 Research Postgraduate (RPG) Students in Hong Kong).
+- *2023* Hong Kong PhD Fellow (HKPFS) (top 3.39% of the newly enrolled 2022/2023 Research Postgraduate (RPG) Students in Hong Kong).
 - *2023* Ethereum Foundation Academic Grant, Ethereum Foundation on Blockchain Security Research.
 - *2021* University of California at Berkeley, Berkeley Club of Hong Kong Scholarship (2021-22 cohort) (4 recipients in the UC Berkeley Computer Science major).
 
@@ -125,6 +125,7 @@ ACM Transactions on Software Engineering and Methodology (TOSEM), 2024. \\
 - OOPSLA 2026, [Artifact Evaluation](https://2026.splashcon.org/track/splash-2026-artifact-evaluation)
 
 ### Journal/Conference Reviewer
-- IEEE Transactions on Dependable and Secure Computing (TDSC) (2024,2025), Journal Reviewer
-- ACM Transactions on Software Engineering and Methodology (TOSEM) (2025, 2026), Journal Reviewer
-- The Journal of Supercomputing (2026), Journal Reviewer
+- IEEE Transactions on Dependable and Secure Computing (TDSC) (2024,2025) [JCR-Q1], Journal Reviewer
+- ACM Transactions on Software Engineering and Methodology (TOSEM) (2025, 2026) [JCR-Q1], Journal Reviewer
+- The Journal of Supercomputing (2026) [JCR-Q2], Journal Reviewer
+- Humanities and Social Sciences Communications (2026) [JCR-Q1], Journal Reviewer
