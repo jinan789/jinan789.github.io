@@ -128,5 +128,5 @@ ACM Transactions on Software Engineering and Methodology (TOSEM), 2024. \\
 - IEEE Transactions on Dependable and Secure Computing (TDSC) (2024,2025) [JCR-Q1], Journal Reviewer
 - ACM Transactions on Software Engineering and Methodology (TOSEM) (2025, 2026) [JCR-Q1], Journal Reviewer
 - The Journal of Supercomputing (2026) [JCR-Q2], Journal Reviewer
-- Artificial Intelligence Review (2026) [JCR-Q2], Journal Reviewer
+- Artificial Intelligence Review (2026) [JCR-Q1], Journal Reviewer
 - Humanities and Social Sciences Communications (2026) [JCR-Q1], Journal Reviewer
