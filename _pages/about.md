@@ -19,7 +19,7 @@ redirect_from:
 <!-- Jinan Jiang is currently working toward the Ph.D. degree (2023 - present) with the Department of Computing,
  -->
  
-Jinan Jiang is currently working at the Department of Computing, The Hong Kong Polytechnic University, under the supervision of [Prof. Daniel Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/). Before that, he received the B.A. degree (with highest distinction) in computer science from the University of California, Berkeley in June 2022. He is currently conducting a research visit at the National University of Singapore (NUS) in January–July 2026, under the supervision of [Prof. Jiaheng Zhang](https://zjhzjh123.github.io/). His research interests include blockchain security, zero-knowledge proof, and smart contract security.
+Jinan Jiang is currently affiliated at the Department of Computing, The Hong Kong Polytechnic University, under the supervision of [Prof. Daniel Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/). Before that, he received the B.A. degree (with highest distinction) in computer science from the University of California, Berkeley in June 2022. He is currently conducting a research visit at the National University of Singapore (NUS) in January–July 2026, under the supervision of [Prof. Jiaheng Zhang](https://zjhzjh123.github.io/). His research interests include blockchain security, zero-knowledge proof, and smart contract security.
 
  
 
@@ -126,6 +126,7 @@ ACM Transactions on Software Engineering and Methodology (TOSEM), 2024. \\
 ### Program Committee Member
 - USENIX Security 2026, [Artifact Evaluation](https://www.usenix.org/conference/usenixsecurity26/call-for-papers)
 - OOPSLA 2026, [Artifact Evaluation](https://2026.splashcon.org/track/splash-2026-artifact-evaluation)
+- International Conference on Evaluation and Assessment in Software Engineering (EASE) 2026, [Doctoral Symposium](https://conf.researchr.org/track/ease-2026/ease-2026-doctoral-symposium)
 
 ### Journal/Conference Reviewer
 - IEEE Transactions on Dependable and Secure Computing (TDSC) (2024,2025) [JCR-Q1], Journal Reviewer
