@@ -124,9 +124,11 @@ ACM Transactions on Software Engineering and Methodology (TOSEM), 2024. \\
 # 💻 Services
 
 ### Program Committee Member
+- Asia-Pacific Software Engineering Conference (APSEC) 2026, [Technical Track](https://conf.researchr.org/track/apsec-2026/apsec-2026-technical-track)
 - USENIX Security 2026, [Artifact Evaluation](https://www.usenix.org/conference/usenixsecurity26/call-for-papers)
 - OOPSLA 2026, [Artifact Evaluation](https://2026.splashcon.org/track/splash-2026-artifact-evaluation)
 - International Conference on Evaluation and Assessment in Software Engineering (EASE) 2026, [Doctoral Symposium](https://conf.researchr.org/track/ease-2026/ease-2026-doctoral-symposium)
+
 
 ### Journal/Conference Reviewer
 - IEEE Transactions on Dependable and Secure Computing (TDSC) (2024,2025) [JCR-Q1], Journal Reviewer
