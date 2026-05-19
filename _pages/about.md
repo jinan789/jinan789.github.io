@@ -119,11 +119,12 @@ ACM Transactions on Software Engineering and Methodology (TOSEM), 2024. \\
 - *Cyber and Internet Security (COMP5355)*: Teaching Assistant, 2024/25 semester 3, The Hong Kong PolyU
 - *Cyber and Internet Security (COMP5355)*: Teaching Assistant, 2025/26 semester 1, The Hong Kong PolyU
 
-
+ACM Conference on Computer and Communications Security (CCS)
 
 # 💻 Services
 
 ### Program Committee Member
+- ACM Conference on Computer and Communications Security (CCS) 2026, [Artifact Evaluation](https://www.sigsac.org/ccs/CCS2026/call-for-artifacts/)
 - Asia-Pacific Software Engineering Conference (APSEC) 2026, [Software Engineering in Practices](https://conf.researchr.org/track/apsec-2026/apsec-2026-technical-track)
 - USENIX Security 2026, [Artifact Evaluation](https://www.usenix.org/conference/usenixsecurity26/call-for-papers)
 - OOPSLA 2026, [Artifact Evaluation](https://2026.splashcon.org/track/splash-2026-artifact-evaluation)
