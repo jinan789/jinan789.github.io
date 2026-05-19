@@ -119,7 +119,6 @@ ACM Transactions on Software Engineering and Methodology (TOSEM), 2024. \\
 - *Cyber and Internet Security (COMP5355)*: Teaching Assistant, 2024/25 semester 3, The Hong Kong PolyU
 - *Cyber and Internet Security (COMP5355)*: Teaching Assistant, 2025/26 semester 1, The Hong Kong PolyU
 
-ACM Conference on Computer and Communications Security (CCS)
 
 # 💻 Services
 
