@@ -123,7 +123,8 @@ ACM Transactions on Software Engineering and Methodology (TOSEM), 2024. \\
 # 💻 Services
 
 ### Program Committee Member
-- NDSS 2027, [Artifact Evaluation]([https://www.sigsac.org/ccs/CCS2026/call-for-artifacts/](https://www.ndss-symposium.org/ndss2027/submissions/call-for-artifacts/))
+- ICSE 2027, [Research Track (shadow)](https://conf.researchr.org/track/icse-2027/icse-2027-shadow-research-track-program-committee)
+- NDSS 2027, [Artifact Evaluation](https://www.ndss-symposium.org/ndss2027/submissions/call-for-artifacts/)
 - ACM Conference on Computer and Communications Security (CCS) 2026, [Artifact Evaluation](https://www.sigsac.org/ccs/CCS2026/call-for-artifacts/)
 - Asia-Pacific Software Engineering Conference (APSEC) 2026, [Software Engineering in Practices](https://conf.researchr.org/track/apsec-2026/apsec-2026-technical-track)
 - USENIX Security 2026, [Artifact Evaluation](https://www.usenix.org/conference/usenixsecurity26/call-for-papers)
