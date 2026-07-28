@@ -48,6 +48,11 @@ Jinan Jiang is currently affiliated at the Department of Computing, The Hong Kon
 <!-- <p> <div class="badge">ASE 2025</div>  caleCirc: Scaling the Analysis over Circom Circuits <a href="https://jinan789.github.io/">[Paper]</a> <br> <strong><u>Jinan Jiang</u></strong>, JHaoran Qin, Xiapu Luo <br> 40th IEEE/ACM International Conference on Automated Software Engineering, 2025. </p> -->
 
 
+- ``ASE 2026`` Zero-Knowledge VMs: Security and Usability in Practice  ([Paper](https://jinan789.github.io/)) \\
+**<u>Jinan Jiang</u>**, Jinzhao Chu, Pengyu Xue, Xinghao Peng, Haoran Qin, Xiapu Luo \\
+41st IEEE/ACM International Conference on Automated Software Engineering, 2026. 
+
+
 - ``ASE 2025`` ScaleCirc: Scaling the Analysis over Circom Circuits ([Paper](https://jinan789.github.io/)) \\
 **<u>Jinan Jiang</u>**,  Haoran Qin, Xiapu Luo \\
 40th IEEE/ACM International Conference on Automated Software Engineering, 2025. 
@@ -133,7 +138,7 @@ ACM Transactions on Software Engineering and Methodology (TOSEM), 2024. \\
 
 
 ### Journal/Conference Reviewer
-- IEEE Transactions on Dependable and Secure Computing (TDSC) (2024,2025) [JCR-Q1], Journal Reviewer
+- IEEE Transactions on Dependable and Secure Computing (TDSC) (2024,2025,2026) [JCR-Q1], Journal Reviewer
 - ACM Transactions on Software Engineering and Methodology (TOSEM) (2025, 2026) [JCR-Q1], Journal Reviewer
 - The Journal of Supercomputing (2026) [JCR-Q2], Journal Reviewer
 - Artificial Intelligence Review (2026) [JCR-Q1], Journal Reviewer
