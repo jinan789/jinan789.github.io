@@ -21,7 +21,7 @@ redirect_from:
  
 Jinan Jiang is currently affiliated at the Department of Computing, The Hong Kong Polytechnic University, under the supervision of [Prof. Daniel Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/). Before that, he received the B.A. degree (with highest distinction) in computer science from the University of California, Berkeley in June 2022. He is currently conducting a research visit at the National University of Singapore (NUS) in January–July 2026, under the supervision of [Prof. Jiaheng Zhang](https://zjhzjh123.github.io/). His research interests include blockchain security, zero-knowledge proof, and smart contract security.
 
-**<u>If you are interested in pursuing RA/PhD/Postdoc at PolyU, and would like some advice/suggestions, feel free to contact me via wechat: syeajg</u>**
+## **<u>If you are interested in pursuing RA/PhD/Postdoc at PolyU, and would like some advice/suggestions, feel free to contact me via wechat: syeajg</u>**
 
  
 
